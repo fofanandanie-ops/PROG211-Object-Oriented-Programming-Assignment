@@ -1,10 +1,12 @@
 # Student Record and Examination Results Management System
 
-**Course:** PROG211 - Object-Oriented Programming 1
+**Course** BICT
+**Module:** PROG211 - Object-Oriented Programming Methods 1
 **Institution:** Limkokwing University of Creative Technology, Sierra Leone
 **Domain:** Education
 **Language:** Python 3 (tested with Python 3.12.10)
-**Student:** _[Daniel Michael Fofanah]_ - _[905006072]_
+**Student:** Daniel Michael Fofanah 
+**ID** 905006072
 
 ---
 
