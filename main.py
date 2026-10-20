@@ -1,3 +1,4 @@
+"""
 Student Record and Examination Results Management System
 PROG211 - Object-Oriented Programming 1 (Education domain)
 
